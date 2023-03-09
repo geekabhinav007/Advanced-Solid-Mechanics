@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Math Test
 
 | Sr No | Name | Class|
