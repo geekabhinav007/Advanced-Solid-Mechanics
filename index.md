@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Advanced Solid Mechanics
 
 ## 1. Basics
@@ -12,5 +17,3 @@
 1. [Constitutive Relations](Files/Basics/ConstitutiveRelations.md)
 1. [Cartesian Tensors](Files/Basics/CartesianTensors.md)
 1. [Equations of Elasticity](EquationsOfElasticity.md)
-
-
