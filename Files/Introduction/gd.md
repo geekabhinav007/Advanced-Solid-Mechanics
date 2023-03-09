@@ -19,5 +19,3 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 | 1 | Ram | CSE |
 | 2 | Sham | Civil |
 | 3 | Sita | Mech |
-
-<script src="mathjax_script.html"></script>
