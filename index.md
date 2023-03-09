@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+author: "Kumar Abhinav"
+year: 2023
 ---
 
 # Advanced Solid Mechanics
