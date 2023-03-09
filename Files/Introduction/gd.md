@@ -2,7 +2,7 @@
 
 | Sr No | Name | Class|
 |---|---|---|
-| 1 | Ram | CSE |<script src="mathjax_script.html"></script>
+| 1 | Ram | CSE |
 | 2 | Sham | Civil |
 | 3 | Sita | Mech |
 
